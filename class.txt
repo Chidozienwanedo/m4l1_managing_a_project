@@ -2,12 +2,13 @@ Crimson
 Orange
 Blue
 Cyan
-Yellow
+Golden
 Charcoal
 Khaki
 Coral
-Silver
+Charcoal
 Fuchsia
-Purple
+Purple_liss
+Bluegreeen
 Brown
 Red
